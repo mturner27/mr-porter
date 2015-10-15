@@ -37,9 +37,7 @@
 				<li>Brands can have names & descriptions</li>
 				<li>products can have prices, descriptions, names, brands</li>
 				<li>each Brand can have many products</li>
-
 				<li>each product can have only one brand</li>
-				<>each<
 			</ul>
 
 	</body>
