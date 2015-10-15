@@ -7,7 +7,8 @@
 		<h1>persona</h1>
 		<p>
 			affluent male ,27-56 years old,urban dweller,status & quality driven,he know his sizing,
-			knows brands & wants products shiipped to his home or friends.
+			knows brands & wants products shiipped to his home or friends.Usually a business owner/executive,very tech savy
+			likes a faster -slleker form like Apple, uses an mobile device or tablet( IPhone 6s plus & IPad pro )
 		</p>
 		<h1>use case 1</h1>
 		<ul>
@@ -29,5 +30,16 @@
 			<li>step 5 allows me to purchase.</li>
 			<li></li>
 		</ul>
+		<h1>Conceptual Model</h1>
+			<ul>
+				<li>Brands & Products
+				<li>Brands can have names & descriptions</li>
+				<li>products can have prices, descriptions, names, brands</li>
+				<li>each Brand can have many products</li>
+
+				<li>each product can have only one brand</li>
+				<li>each</li>
+			</ul>
+
 	</body>
 </html>
