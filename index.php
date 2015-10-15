@@ -39,7 +39,7 @@
 				<li>each Brand can have many products</li>
 
 				<li>each product can have only one brand</li>
-				<li>each</li>
+				<>each<
 			</ul>
 
 	</body>
