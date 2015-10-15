@@ -26,10 +26,11 @@
 		<ul>
 			<li>goal #2 looking for a gift.</li>
 			<li>step 1 select a gift from nav bar</li>
-			<li>step 2 select " books" catagory</li>
-			<li>step 3 select by publisher Taschen</li>
+			<li>nav bar gives me a drop down menu</li>
+			<li>step 2 select " books" catagory from the nav bar</li>
+			<li>step 3 select by publisher Taschen from the drop down</li>
 			<li>step 4 takes me to product specific info</li>
-			<li>step 5 allows me to purchase.</li>
+			<li>step 5 there is a purchase option area on the page.</li>
 			<li></li>
 		</ul>
 		<h1>Conceptual Model</h1>
