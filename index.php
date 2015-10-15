@@ -7,7 +7,7 @@
 	<body>
 		<h1>persona</h1>
 		<p>
-			affluent male ,27-56 years old,urban dweller,status & quality driven,he know his sizing,
+			affluent male , 27-56years old,urban dweller,status & quality driven,he know his sizing,
 			knows brands & wants products shipped  to his home or friends.Usually a business owner/executive,very tech savy
 			likes a faster -sleeker form like Apple, uses an mobile device or tablet( IPhone 6s plus & IPad pro )
 		</p>
